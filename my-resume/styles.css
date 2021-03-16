@@ -1,7 +1,16 @@
+html {
+    background-color: #fffffe;
+}
+
 h1 {
-    color: blue;
+    color: #2b2c34;
 }
 
 p {
-    font-family: monospace;
+    color: #2b2c34;
+}
+
+button {
+    color: #fffffe;
+    background-color: #6246ea;
 }

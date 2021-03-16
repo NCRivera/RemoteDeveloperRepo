@@ -1,0 +1,20 @@
+html {
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-size: 50px; */
+    font-size: 3rem; 
+    
+}
+
+.secondary {
+    color: teal;
+}
+
+h2 {
+    text-align: center;
+    /* color: skyblue; */
+    color: #da1c1c;
+}
