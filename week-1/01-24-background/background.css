@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 5%;
+}
+
+#hero {
+    /* background-color: skyblue; */
+    /* background-image: url("images/mountain_2.jpg"); */
+    /* background-size: 100%; */
+    /* background-position: bottom; */
+    /* height: 200px; */
+    background: bottom / 100% url("images/mountain_2.jpg");
+}
